@@ -25,3 +25,5 @@ export { default as W } from './english/W.vue';
 export { default as X } from './english/X.vue';
 export { default as Y } from './english/Y.vue';
 export { default as Z } from './english/Z.vue';
+
+export { default as Nbsp } from './base/Nbsp.vue';
