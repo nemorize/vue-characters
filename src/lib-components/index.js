@@ -1,0 +1,27 @@
+/* eslint-disable import/prefer-default-export */
+export { default as A } from './english/A.vue';
+export { default as B } from './english/B.vue';
+export { default as C } from './english/C.vue';
+export { default as D } from './english/D.vue';
+export { default as E } from './english/E.vue';
+export { default as F } from './english/F.vue';
+export { default as G } from './english/G.vue';
+export { default as H } from './english/H.vue';
+export { default as I } from './english/I.vue';
+export { default as J } from './english/J.vue';
+export { default as K } from './english/K.vue';
+export { default as L } from './english/L.vue';
+export { default as M } from './english/M.vue';
+export { default as N } from './english/N.vue';
+export { default as O } from './english/O.vue';
+export { default as P } from './english/P.vue';
+export { default as Q } from './english/Q.vue';
+export { default as R } from './english/R.vue';
+export { default as S } from './english/S.vue';
+export { default as T } from './english/T.vue';
+export { default as U } from './english/U.vue';
+export { default as V } from './english/V.vue';
+export { default as W } from './english/W.vue';
+export { default as X } from './english/X.vue';
+export { default as Y } from './english/Y.vue';
+export { default as Z } from './english/Z.vue';
