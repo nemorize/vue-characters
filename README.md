@@ -10,7 +10,7 @@ Make your vue application fully component-based.
 ## Installation
 
 ```shell
-npm install https://github.com/qroffle/vue-characters
+npm install https://github.com/nemo9l/vue-characters
 ```
 
 ## Usage
